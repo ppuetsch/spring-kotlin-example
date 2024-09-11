@@ -9,3 +9,4 @@
 - Kotlin-Kaons (https://kotlinlang.org/docs/koans.html)
 - ktlint and detekt
 - Kotlin in Spring Source (https://github.com/spring-projects)
+- Copy&Paste in IntelliJ (Decompile, Paste Java (https://www.baeldung.com/java-matrix-multiplication))
